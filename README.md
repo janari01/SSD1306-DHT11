@@ -17,9 +17,9 @@ Furthermore, parabola animation between iterations.
 * Grnd -> ground pin
 
 ## Example
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="/images/imgs2.jpg" alt="SSD1306" style="object-fit: cover; width: auto; height: 150px;">
-  <img src="/images/imgs1.jpg" alt="SSD1306" style="object-fit: cover; width: auto; height: 150px;">
+<div style="display: flex; flex-wrap: wrap; gap: 15px;">
+  <img src="/images/imgs2.jpg" alt="SSD1306" style="object-fit: cover; width: auto; height: 200px;">
+  <img src="/images/imgs1.jpg" alt="SSD1306" style="object-fit: cover; width: auto; height: 200px;">
 </div>
 
 ## Notes
