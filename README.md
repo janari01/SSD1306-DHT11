@@ -17,8 +17,8 @@ Furthermore, parabola animation between iterations.
 * Grnd -> ground pin
 
 ## Example
-![SSD1306](https://github.com/janari01/SSD1306-DHT11/tree/main/images/imgs2.jpg)
-![SSD1306](https://github.com/janari01/SSD1306-DHT11/tree/main/images/imgs1.jpg)
+![SSD1306](/images/imgs2.jpg)
+![SSD1306](/images/imgs1.jpg)
 
 ## Notes
 Data was gather from documentations, as well from other sources.
