@@ -18,9 +18,9 @@ Furthermore, parabola animation between iterations.
 
 ## Example
 Code toggles between the DHT11 module and parabola animation.
-<div style="display: flex; flex-wrap: wrap; gap: 15px;">
-  <img src="/images/imgs2.jpg" alt="SSD1306" style="object-fit: cover; width: auto; height: 250px;">
-  <img src="/images/imgs1.jpg" alt="SSD1306" style="object-fit: cover; width: auto; height: 250px;">
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+  <img src="/images/imgs2.jpg" alt="SSD1306" style="object-fit: cover; width: auto; height: 275px;">
+  <img src="/images/imgs1.jpg" alt="SSD1306" style="object-fit: cover; width: auto; height: 275px;">
 </div>
 
 ## Notes
