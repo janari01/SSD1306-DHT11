@@ -18,8 +18,8 @@ Furthermore, parabola animation between iterations.
 
 ## Example
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="/images/imgs2.jpg" alt="SSD1306" style="width: 35%; height: auto; object-fit: cover;">
-  <img src="/images/imgs1.jpg" alt="SSD1306" style="width: 35%; height: auto; object-fit: cover;">
+  <img src="/images/imgs2.jpg" alt="SSD1306" style="width: 175px; height: auto; object-fit: cover;">
+  <img src="/images/imgs1.jpg" alt="SSD1306" style="width: 175px; height: auto; object-fit: cover;">
 </div>
 
 ## Notes
