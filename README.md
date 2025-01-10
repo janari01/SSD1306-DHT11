@@ -1,4 +1,4 @@
-# DHT11 and SSD1306 Project
+# SSD1306 and DHT11 Project
 
 ## Introduction
 The purpose of this project is to display temperature and humidity on the SSD1306 display.
@@ -17,13 +17,14 @@ Furthermore, parabola animation between iterations.
 * Grnd -> ground pin
 
 ## Example
+Code toggles between the DHT11 module and parabola animation.
 <div style="display: flex; flex-wrap: wrap; gap: 15px;">
-  <img src="/images/imgs2.jpg" alt="SSD1306" style="object-fit: cover; width: auto; height: 200px;">
-  <img src="/images/imgs1.jpg" alt="SSD1306" style="object-fit: cover; width: auto; height: 200px;">
+  <img src="/images/imgs2.jpg" alt="SSD1306" style="object-fit: cover; width: auto; height: 250px;">
+  <img src="/images/imgs1.jpg" alt="SSD1306" style="object-fit: cover; width: auto; height: 250px;">
 </div>
 
 ## Notes
-Data was gather from documentations, as well from other sources.
+Data was gathered from documentations and other sources.
 It is **not** my priority to develop this project to its fullest.
 * Specifically made for 128x64 version
 * Tested on Raspberry Pi 5
