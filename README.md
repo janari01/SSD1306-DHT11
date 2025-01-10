@@ -17,8 +17,10 @@ Furthermore, parabola animation between iterations.
 * Grnd -> ground pin
 
 ## Example
-![SSD1306](/images/imgs2.jpg){: style="height:85px"}
-![SSD1306](/images/imgs1.jpg){: style="height:85px"}
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="/images/imgs2.jpg" alt="SSD1306" style="max-width: 100%; height: auto;">
+  <img src="/images/imgs1.jpg" alt="SSD1306" style="max-width: 100%; height: auto;">
+</div>
 
 ## Notes
 Data was gather from documentations, as well from other sources.
