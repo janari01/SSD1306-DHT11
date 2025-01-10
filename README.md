@@ -17,8 +17,7 @@ Furthermore, parabola animation between iterations.
 * Grnd -> ground pin
 
 ## Example
-![SSD1306](/images/imgs2.jpg)
-![SSD1306](/images/imgs1.jpg)
+![SSD1306](/images/imgs2.jpg) ![SSD1306](/images/imgs1.jpg)
 
 ## Notes
 Data was gather from documentations, as well from other sources.
